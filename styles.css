@@ -1,0 +1,98 @@
+ /**  . for class # for id
+ */
+#introduction  {
+
+font-weight: bold;
+font-size: 15px;
+
+}
+
+#gitLink1 {
+    color: red;
+}
+
+#liLink1 {
+    color: red;
+
+}
+
+#myEmail {
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#myLIbtn  {
+    margin-bottom: 15px;
+}
+
+.images-container {
+    display: flex;
+    justify-content: center;
+}
+.images-container img {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    
+    font-size: 15px;
+    color: white;
+    
+}
+#welcome {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+
+#ARR {
+    color: white
+}
+
+
+
+
+#repos {
+    
+    font-size: 15px;
+    
+}
+
+h2 {
+    color: white;
+
+}
+
+p1  {
+    
+}
+
+footer {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#projects {
+    font-style: italic;
+    font-size: 30px;
+}
+
+#myLI {
+    text-decoration-line: underline;
+}
+
